@@ -1,9 +1,9 @@
 # ds_-Ankur_Saini-
-📊 Trading Performance vs. Market Sentiment – Analysis Report
+ #Trading Performance vs. Market Sentiment – Analysis Report
 
 This repository contains a complete analysis of how trading behavior and profitability vary across different market sentiment conditions (Fear, Greed, Extreme phases). The study combines a historical trading dataset with the Fear & Greed Index to uncover performance patterns, trader behavior, and risk levels.
 
-🔍 Project Overview
+ #Project Overview
 
 The goal of this project is to analyze how trader outcomes change as market sentiment shifts.
 Using a merged dataset of trade records and sentiment labels, the notebook explores:
@@ -22,12 +22,12 @@ Overall trader performance across sentiment categories
 
 The results highlight how market psychology influences trading outcomes.
 
-📁 Repository Contents
+# Repository Contents
 File	Description
 ds_task.ipynb	Jupyter Notebook containing full data loading, preprocessing, analysis, and visualizations.
 report.docx (optional)	Detailed written report summarizing all analysis steps and insights.
 README.md	Project overview, instructions, and documentation.
-🧠 Key Insights from the Analysis
+# Key Insights from the Analysis
 1. Trading Activity
 
 Traders were most active during Fear sentiment periods.
@@ -74,30 +74,9 @@ Matplotlib / Seaborn
 
 Jupyter Notebook
 
-🚀 How to Run the Notebook
-
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
 
 
-Navigate to the project:
-
-cd your-repo-name
-
-
-Install required libraries:
-
-pip install -r requirements.txt
-
-
-Open the notebook:
-
-jupyter notebook ds_task.ipynb
-
-📌 Purpose of This Project
-
-This analysis can help:
+#This analysis can help:
 
 Traders understand how sentiment influences performance
 
@@ -107,7 +86,7 @@ Researchers study behavioral finance patterns
 
 Portfolio managers adjust risk exposure based on market psychology
 
-🤝 Contributions
+# Contributions
 
 Contributions, improvements, and suggestions are always welcome.
 Feel free to open an issue or submit a pull request.
